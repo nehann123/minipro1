@@ -171,7 +171,7 @@ namespace miniproject1
             int loop = 1;
             while (loop != 0)
             {
-                Console.WriteLine("enter 1.Display all the complaints based on the year\n 2.Display all the complaints based on the name of the bank \n 3.Display complaints based on the complaint id \n 4.Display number of days took by the Bank to close the complaint\n 5.Display all the complaints closed/closed with explanation\n 6.Display all the complaints which received a timely response\n 7.Create new complaint\n 8.exit\n");
+                Console.WriteLine("enter 1.Display all the complaints based on the years\n 2.Display all the complaints based on the name of the bank \n 3.Display complaints based on the complaint id \n 4.Display number of days took by the Bank to close the complaint\n 5.Display all the complaints closed/closed with explanation\n 6.Display all the complaints which received a timely response\n 7.Create new complaint\n 8.exit\n");
                 int choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
                 {
