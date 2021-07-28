@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace minipro1
 {
-    class Class1
+    public class Class1
     {
             public void M1()
         {

@@ -3,18 +3,22 @@ using minipro1;
 
 namespace test123
 {
+    [TestFixture]
     public class miniproject1
     {
-        [TestFixture]
+       
         public class UnitTest1
         {
-            Program obj = new Program();
+            Class1 obj = new Class1();
+            [Test]
+
+            public void TestAdd()
+            {
+
+            }
         }
 
-        [Test]
+       
  
-        {
-            Assert.Pass();
-        }
     }
 }
