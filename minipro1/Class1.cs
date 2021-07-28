@@ -8,8 +8,13 @@ namespace minipro1
 {
     class Class1
     {
+            public void M1()
+        {
         Console.WriteLine("Muskan Here");
-         public void AR1()
+
+        }
+
+        public void AR1()
         {
             Console.WriteLine("kamm khatam1");
         }
