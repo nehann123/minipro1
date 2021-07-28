@@ -6,9 +6,9 @@ namespace test123
     public class Tests
     {
         [TestFixture]
-        public void UnitTest1()
+        public class UnitTest1
         {
-            
+            Program obj = new Program();
         }
 
         [Test]
