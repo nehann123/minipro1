@@ -3,7 +3,7 @@ using minipro1;
 
 namespace test123
 {
-    public class Tests
+    public class miniproject1
     {
         [TestFixture]
         public class UnitTest1
