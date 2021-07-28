@@ -14,9 +14,9 @@ namespace minipro1
 
         }
 
-        public void AR1()
+        public int Add(int a, int b)
         {
-            Console.WriteLine("kamm khatam1");
+            return (a + b);
         }
         public void AR2()
         {

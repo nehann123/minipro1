@@ -14,7 +14,8 @@ namespace test123
 
             public void TestAdd()
             {
-
+                int actual = obj.Add(4, 5);
+                Assert.AreEqual(9, actual);
             }
         }
 
